@@ -1,6 +1,7 @@
 # Security Analysis
 
-
+Some security/stock analysis in R.
+Learning while doing.
 
 ##### Sources: 
 - https://www.youtube.com/watch?v=fXxS8Jf-j9w
